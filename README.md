@@ -74,4 +74,33 @@ venv\Scripts\activate   # On Windows
 source venv/bin/activate  # On Mac/Linux
 pip install -r requirements.txt
 python manage.py migrate
+
 python manage.py runserver
+## 🧪 Featured Projects
+
+- 🛍️ **[Shopfy](https://shopfy-ncx.netlify.app/)** – Full stack MERN-based eCommerce platform with multi-step checkout  
+- 🤖 **[GalaxNova](https://galaxnova.netlify.app/)** – AI-themed chatbot interface built with React + Tailwind CSS  
+- 🚘 **[Autolux](https://autolux-ntbk.onrender.com/)** – Vehicle services automation platform powered by Django  
+- 📝 **[Bloggy](https://bloggy-4xrs.onrender.com)** – Django-based blogging platform with image uploads and post management  
+
+> Explore more on my [GitHub profile](https://github.com/Muhammed-anas)
+
+---
+
+## 📚 Currently Exploring
+
+- 🧠 Deep Learning and custom model fine-tuning  
+- 🤖 Voice + Vision AI Assistants  
+- 🧱 Advanced Django & REST API architecture  
+
+
+---
+
+## 💬 Let's Connect
+
+I'm always open to collaboration, especially on AI, full-stack apps, or robotics.
+
+- 📧 Email: **muhammedanas6282@gmail.com**  
+- 🔗 [LinkedIn](https://linkedin.com/in/muhammed-anas-ma)  
+- 🐙 [GitHub](https://github.com/Muhammed-anas)
+
