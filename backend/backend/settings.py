@@ -155,6 +155,7 @@ SIMPLE_JWT = {
 
 # CORS (development settings)
 # Allow the frontend dev server (and other local origins) to make requests.
+CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOWED_ORIGINS = [
     "https://task-manager-mhcc-frontend.vercel.app",
 ]
